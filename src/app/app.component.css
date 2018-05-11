@@ -1,0 +1,13 @@
+.container{
+	border-radius: 4%;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	padding: 30px;
+	background: rgba(255,255,255,1);
+}
+button{
+	width: 100%;
+}
+th, td {
+	width: 100%;
+}
